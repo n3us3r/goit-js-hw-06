@@ -1,0 +1,10 @@
+{
+    "turboConsoleLog.addSemicolonInTheEnd": false,
+    "turboConsoleLog.quote": "`",
+    "turboConsoleLog.logMessagePrefix": "",
+    "turboConsoleLog.insertEnclosingClass": false,
+    "turboConsoleLog.delimiterInsideMessage": "",
+    "turboConsoleLog.insertEnclosingFunction": false,
+    "turboConsoleLog.includeFileNameAndLineNum": false,
+    "turboConsoleLog.wrapLogMessage": false
+}
